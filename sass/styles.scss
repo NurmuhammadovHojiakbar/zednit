@@ -355,8 +355,8 @@ body{
 .site-footer{
     padding: 50px 30px 200px;
     color: #fff;
-    background: #172F53 url("../images/site-footer-bg.png") no-repeat center 100%;
-    background-size: 100%;
+    background: #172F53 url("../images/site-footer-bg.png") repeat-x center 100%;
+    background-size: auto;
     
     .footer-container{
         max-width: 1200px;
